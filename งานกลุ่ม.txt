@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Hello SCM Whan ?/
 hello
+=======
+Junrai
+>>>>>>> d4e600326ea741cc63ac1e571a9ef5c20ff2f24e
+123348
+1548748
